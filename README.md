@@ -18,8 +18,8 @@ The goal was to create a landing page that feels luxurious, culturally rooted, a
 ## 🚀 Live Demo
 
 🔗 **Live Link:** 
-chai-culture-cyan.vercel.app
-
+[chai-culture-cyan.vercel.app
+](https://chai-culture-cyan.vercel.app/)
 ---
 
 ## 📂 GitHub Repository
