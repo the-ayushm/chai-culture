@@ -17,9 +17,9 @@ The goal was to create a landing page that feels luxurious, culturally rooted, a
 
 ## 🚀 Live Demo
 
-🔗 **Live Link:** 
-[chai-culture-cyan.vercel.app
-](https://chai-culture-cyan.vercel.app/)
+🔗 **Live Link:**  
+https://chai-culture-cyan.vercel.app/
+
 ---
 
 ## 📂 GitHub Repository
@@ -37,7 +37,7 @@ I designed the landing page with royal Indian aesthetics using deep brown and go
 ## 🧩 Features
 
 - Premium royal-themed UI
-- Responsive layout (mobile-first)
+- Fully responsive layout (mobile-first)
 - Animated hero and section reveals
 - Countdown timer for product launch
 - Email signup with validation alert
